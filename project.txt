@@ -1,3 +1,0 @@
-Click Here to Go to project :
-
-https://nbviewer.jupyter.org/github/Danialmonachan11/Capstone_cluster00/blob/master/Untitled.ipynb
