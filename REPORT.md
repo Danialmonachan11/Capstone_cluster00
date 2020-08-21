@@ -84,7 +84,7 @@ Calculation of target variable
 Results
 =======
 
-![](media/image1.png){width="6.666666666666667in"
+![](./media/image1.png){width="6.666666666666667in"
 height="3.310416666666667in"}
 
 3 clusters were generated:
